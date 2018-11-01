@@ -7327,7 +7327,7 @@ SOFTWARE.
 
               (0, _sourceMapSupport.rewriteStacktrace)(
                 error,
-                "/mnt/c/Dev/learning-next/.next"
+                "/mnt/d/Dev/nextjs-boilerplate/.next"
               );
               return error;
             }
@@ -22085,7 +22085,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
       /*! no static exports found */
       /***/ function(module, exports, __webpack_require__) {
         module.exports = __webpack_require__(
-          /*! /mnt/c/Dev/learning-next/node_modules/next/dist/client/next-dev */ "./node_modules/next/dist/client/next-dev.js"
+          /*! /mnt/d/Dev/nextjs-boilerplate/node_modules/next/dist/client/next-dev */ "./node_modules/next/dist/client/next-dev.js"
         );
 
         /***/

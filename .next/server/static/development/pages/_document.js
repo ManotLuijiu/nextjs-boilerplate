@@ -143,7 +143,7 @@ module.exports = /******/ (function(modules) {
       /*! no static exports found */
       /***/ function(module, exports, __webpack_require__) {
         module.exports = __webpack_require__(
-          /*! /mnt/c/Dev/learning-next/node_modules/next/dist/pages/_document.js */ "./node_modules/next/dist/pages/_document.js"
+          /*! /mnt/d/Dev/nextjs-boilerplate/node_modules/next/dist/pages/_document.js */ "./node_modules/next/dist/pages/_document.js"
         );
 
         /***/

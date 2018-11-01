@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "eslint pages"
   },
   "husky": {
     "hooks": {
@@ -16,9 +17,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
     "next": "^7.0.2",
+    "prop-types": "^15.6.2",
     "react": "^16.6.0",
-    "react-dom": "^16.6.0"
+    "react-dom": "^16.6.0",
+    "react-jss": "^8.6.1"
   },
   "devDependencies": {
     "eslint-config-prettier": "^3.1.0",
@@ -26,6 +30,12 @@
     "husky": "^1.1.2",
     "lint-staged": "^8.0.4",
     "prettier": "^1.14.3",
-    "pretty-quick": "^1.8.0"
+    "pretty-quick": "^1.8.0",
+    "babel-eslint": "^8.2.5",
+    "eslint": "^5.0.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.10.0"
   }
 }
